@@ -35,10 +35,10 @@ CREATE TABLE [dbo].[SalesData](
 ---
 ## ABOUT
 This project aim at exporing Walmart sales to get insights on branch,cities,customer and products effects on sales performance.The aim is to learn 
-how sales can be affected by different players in the market.The data was downloaded from [kaggle](#https://github.com/waweruraffaelo/mssql-project/blob/main/WalmartSalesData.csv)
+how sales can be affected by different players in the market.The data was downloaded from [kaggle](https://github.com/waweruraffaelo/mssql-project/blob/main/WalmartSalesData.csv)
 and imported to MSSQL server.
 
-##Analysis checklist
+## Analysis checklist
 1. Product.
 1. Sales.
 1. Customer.
@@ -81,4 +81,5 @@ and imported to MSSQL server.
 1. Which day fo the week has the best avg ratings?
 1. Which day of the week has the best average ratings per branch
 
-## CODE [SQL_FILE](#https://github.com/waweruraffaelo/mssql-project/blob/main/sales.sql)
+## CODE 
+[SQL_FILE](https://github.com/waweruraffaelo/mssql-project/blob/main/sales.sql)
